@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on my final-year capstone project<br>👯‍♂️I'm looking to collaborate on any cryptography repos<br>🤝I'm looking for help with Rust<br>🌱I'm currently learning about Rust!<br>⚡I'm in love with crypto and would love to learn more!<br>
+🔭I'm currently working on my final-year capstone project<br>🤝I'm looking for help with Rust<br>🌱I'm currently learning about Rust, Github!<br>⚡I'm still figuring out github, and many more things! <br>
 
 
 ## 🌐 Socials:
