@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on my final-year capstone project<br>🤝I'm looking for help with Rust<br>🌱I'm currently learning about Rust, Github!<br>⚡I'm still figuring out github, and many more things! <br>
+🔭I'm currently sleeping<br>🤝I'm looking for help with Rust/React/Spline<br>🌱I'm currently learning about Github/Spline!<br>⚡I'm still figuring out github, and many more things! <br>
 
 
 ## 🌐 Socials:
